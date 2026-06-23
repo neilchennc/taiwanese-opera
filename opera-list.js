@@ -317,6 +317,18 @@ const operas = [
         thumbnail: "https://img.youtube.com/vi/y29mY3zMaA8/mqdefault.jpg",
         source: "華視",
     },
+    {
+        title: "斷情劍",
+        list: "https://www.youtube.com/playlist?list=PLa81SxfdeV4eL5ZmKxnBbu42Bql4QhcJQ",
+        thumbnail: "https://img.youtube.com/vi/o74Hx3cGAn4/mqdefault.jpg",
+        source: "華視",
+    },
+    {
+        title: "描金扇",
+        list: "https://www.youtube.com/playlist?list=PLa81SxfdeV4ccy9O031Baq1aygMQqCbV-",
+        thumbnail: "https://img.youtube.com/vi/QQ0xnpgVvA8/mqdefault.jpg",
+        source: "華視",
+    },
     // ------------------
     {
         title: "寶貝王爺貴千金",
